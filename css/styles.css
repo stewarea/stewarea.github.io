@@ -31,15 +31,11 @@ h2 {
 
 .profile {
   margin-top: 20px;
+  margin-left: 20px;
+
 }
 
 .blurb p {
   font-size: 20pt;
   padding: 50px 20px;
-}
-.span6.blurg {
-  background-color: lightgrey;
-}
-
-
 }
